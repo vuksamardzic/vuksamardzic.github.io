@@ -13,7 +13,7 @@ let info = {
 };
 {% endhighlight %}
 
-Hello there! This is my first post. In my blog i will cover all sorts of interesting things related to programming. Lately i've been developing some cool libraries in `javascript`.
+Hello there! This is my first post. In this blog i will cover all sorts of interesting things related to programming, mostly `Angular` and `Javascript`. Lately i've been developing some cool libraries in `Javascript`.
 
 Check out my [github][github] account for more info or if you just wanna dig around.
 
